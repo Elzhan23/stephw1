@@ -15,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This Flutter application is a simple counter app. Users can increase or decrease the number by pressing the “+” and “−” buttons, and the number updates instantly on the screen.
